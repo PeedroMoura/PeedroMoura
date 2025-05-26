@@ -34,14 +34,10 @@ I specialize in building intuitive and high-performance web and mobile applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-</p>
-<p>
-  JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; React &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Vue.js &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3
 </p>
 
 <!-- Backend & Tools -->
@@ -52,9 +48,6 @@ I specialize in building intuitive and high-performance web and mobile applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-</p>
-<p>
-  Node.js &nbsp;|&nbsp; Firebase &nbsp;|&nbsp; Git &nbsp;|&nbsp; Postman &nbsp;|&nbsp; Figma
 </p>
 
 </div>
