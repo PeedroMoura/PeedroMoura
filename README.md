@@ -55,7 +55,7 @@ I specialize in building intuitive and high-performance web and mobile applicati
 <!-- Development Tools & Design -->
 ### Development Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,cursor" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman," height="40" />
 </p>
 
 ---
