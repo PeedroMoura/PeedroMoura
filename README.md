@@ -28,6 +28,7 @@ I specialize in building intuitive and high-performance web and mobile applicati
 
 <!-- Programming Languages -->
 <!-- Programming Languages -->
+<!-- Programming Languages -->
 ### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts" height="40" />
@@ -36,7 +37,13 @@ I specialize in building intuitive and high-performance web and mobile applicati
 <!-- Frameworks & Libraries -->
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,vue" height="40" />
+</p>
+
+<!-- Frontend Technologies -->
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" height="40" />
 </p>
 
 <!-- Backend & Cloud -->
@@ -45,18 +52,11 @@ I specialize in building intuitive and high-performance web and mobile applicati
   <img src="https://skillicons.dev/icons?i=firebase" height="40" />
 </p>
 
-<!-- Frontend Technologies -->
-### Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" height="40" />
-</p>
-
 <!-- Development Tools & Design -->
 ### Development Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,postman,git,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" height="40" />
 </p>
-
 ---
 
 <!--
