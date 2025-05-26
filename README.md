@@ -67,7 +67,6 @@ I specialize in building intuitive and high-performance web and mobile applicati
 </div>
 -->
 
----
 
 ## 📫 Get in Touch
 
