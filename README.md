@@ -34,22 +34,22 @@ I specialize in building intuitive and high-performance web and mobile applicati
   <img src="https://skillicons.dev/icons?i=js,ts" height="40" />
 </p>
 
-<!-- Frameworks & Libraries -->
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue" height="40" />
-</p>
-
 <!-- Frontend Technologies -->
 ### Frontend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" height="40" />
 </p>
 
-<!-- Backend & Cloud -->
+<!-- Backend & APIS -->
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,express,nestjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase,express" height="40" />
+</p>
+
+<!-- Frameworks & Libraries -->
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nestjs" height="40" />
 </p>
 
 <!-- Development Tools & Design -->
