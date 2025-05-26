@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello,+I'm+Pedro+Moura;Front-End+Developer;Web+%26+Mobile+Enthusiast" alt="Typing SVG" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peedromoura&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peedromoura&theme=radical" alt="GitHub Streak" />
 </div>
-
-# 👋 Hello, I'm Pedro Moura
+-->
 
 🚀 Front-End Developer passionate about technology, innovation, and creating impactful digital experiences.
 
@@ -44,6 +44,7 @@ I specialize in building intuitive and high-performance web and mobile applicati
 
 ---
 
+<!--
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -53,6 +54,10 @@ I specialize in building intuitive and high-performance web and mobile applicati
   <a href="https://github.com/peedromoura/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=peedromoura&repo=project2&theme=radical" />
   </a>
+</div>
+-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peedromoura&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
