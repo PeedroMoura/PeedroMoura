@@ -1,82 +1,81 @@
-# 👋 Hello, I'm Pedro Moura
-
-🚀 Front-End Developer passionate about technology, innovation, and creating impactful digital experiences.
-
-I specialize in building intuitive and high-performance web and mobile applications using technologies like **React**, **Next.js**, **TypeScript**, **React Native**, and **Firebase**. I'm also exploring the world of **Web3** and **Blockchain** to stay at the forefront of technological advancements.
-
----
-
-## 🧠 About Me
-
-- 🎓 **Bachelor's in Information Systems** - CESMAC (2019–2024)
-- 🌱 Continuously learning and embracing new technologies
-- 🤝 Advocate for teamwork and collaborative environments
-- 🌍 Based in Maceió, Alagoas, Brazil
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### **Web Developer | Labbit Space Inc.**  
-*Jan 2024 – Present*
-
-- Develop and maintain dynamic web applications using React and Next.js.
-- Collaborate on UI/UX design with Figma to create user-friendly interfaces.
-- Implement backend functionalities with Node.js and Firebase for real-time data and authentication.
-- Explore Web3 integrations, incorporating blockchain technologies into projects.
-- Utilize Git for version control, ensuring organized and collaborative workflows.
-
-### **Web Developer | Mulheres Conectadas**  
-*Aug 2023 – Jan 2024*
-
-- Developed mobile applications using React Native and Firebase.
-- Built web applications with HTML, CSS, JavaScript, and TypeScript.
-- Collaborated on solutions aimed at positively impacting communities and supporting women entrepreneurs.
-
-### **React Native Developer | CESMAC Robotics Lab**  
-*May 2022 – Jun 2023*
-
-- Created mobile applications using React Native and Firebase Firestore.
-- Participated in the development of innovative technological solutions within the robotics lab.
-
----
-
-<!--
-## 📊 GitHub Stats
+<h1 align="center">👋 Oi, eu sou o Pedro Moura</h1>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeedroMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeedroMoura&layout=compact&langs_count=7&theme=dark"/>
+  🚀 Desenvolvedor Front-End apaixonado por tecnologia, inovação e experiências digitais memoráveis.
 </p>
--->
 
-<!--
-Note: My GitHub stats may not reflect my actual experience and contributions, as most of my work is on private repositories.
--->
-
+<p align="center">
+  <strong>React | Next.js | TypeScript | React Native | Firebase | Web3 Explorer</strong>
+</p>
 
 ---
 
-## 📫 Get in Touch
+## 🧭 Sobre Mim
 
-<p align="left">
+💻 Desenvolvo interfaces com foco em performance, usabilidade e impacto.  
+🎓 **Bacharel em Sistemas de Informação** – CESMAC (2019–2024)  
+🌱 Fã de aprendizados constantes e tecnologias emergentes  
+🤝 Trabalho bem em equipe e gosto de ambientes colaborativos  
+📍 Maceió, Alagoas – Brasil  
+
+---
+
+## 🧰 Minha Stack de Tecnologias
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+</div>
+
+---
+
+## 💼 Onde Já Trabalhei
+
+### 🚀 **Web Developer | Labbit Space Inc.**  
+*jan 2024 – atual*  
+→ Desenvolvimento de aplicações web dinâmicas com React + Next.js  
+→ Integrações Web3 e uso de blockchain  
+→ Backend com Node.js e Firebase (real-time e auth)  
+→ Interface colaborativa com UI/UX via Figma  
+→ Git para controle de versões e organização da equipe
+
+---
+
+### 🌱 **Web Developer | Mulheres Conectadas**  
+*ago 2023 – jan 2024*  
+→ Aplicações mobile com React Native e Firebase  
+→ Soluções voltadas para impacto social e empreendedorismo feminino  
+→ Desenvolvimento web com HTML, CSS, JS e TS
+
+---
+
+### 🤖 **React Native Dev | Laboratório de Robótica CESMAC**  
+*mai 2022 – jun 2023*  
+→ Criação de apps móveis com React Native + Firestore  
+→ Participação em projetos de inovação e tecnologia aplicada
+
+---
+
+## 🚀 Fun Facts & Extras
+
+- 🎮 Gosto de aplicar princípios de UI/UX inspirados em jogos
+- 🧪 Curioso por natureza – estou sempre fuçando novas libs e stacks
+- 🌐 Explorando o universo **Web3** e novas formas de interação digital
+- ☕ Café e código andam juntos aqui!
+
+---
+
+## 📬 Vamos nos conectar?
+
+<div align="left">
   <a href="mailto:contato.pedromouraa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -84,11 +83,20 @@ Note: My GitHub stats may not reflect my actual experience and contributions, as
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://peedromoura.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-1e2a38?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
 
 ---
 
-> "I always seek opportunities to expand my knowledge. I have a knack for working with people and value teamwork, contributing to a collaborative and productive environment."
+## ✨ Frase que me define
+
+> *"Movido pela curiosidade, construo com paixão. Gosto de gente, de código limpo e de desafios que exigem soluções criativas."*
+
+---
+
+<!--
+🔍 PS: A maioria dos meus projetos estão em repositórios privados ou em produção, por isso os stats do GitHub nem sempre refletem minha experiência real.
+-->
+
 
