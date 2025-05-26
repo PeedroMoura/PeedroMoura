@@ -1,50 +1,87 @@
-## Hi there 👋
+# 👋 Hello, I'm Pedro Moura
 
+🚀 Front-End Developer passionate about technology, innovation, and creating impactful digital experiences.
 
-**PeedroMoura/PeedroMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building intuitive and high-performance web and mobile applications using technologies like **React**, **Next.js**, **TypeScript**, **React Native**, and **Firebase**. I'm also exploring the world of **Web3** and **Blockchain** to stay at the forefront of technological advancements.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...Olá, eu sou o Pedro Moura! 👋
-Desenvolvedor Front-End apaixonado por tecnologia e inovação | React, Next.js, TypeScript, Firebase e aplicações Web3
-🚀 Sobre Mim
-Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco no desenvolvimento Front-End. Trabalho com ferramentas como React, React Native, JavaScript/TypeScript, HTML/CSS, NextJs, Postman, Firebase e prototipação com Figma para criar interfaces intuitivas e de fácil uso.
-Tenho experiência no desenvolvimento de projetos web e mobile, além de trabalhar com aplicações Web3 e Blockchain. Sou criativo, organizado e comunicativo, sempre disposto a colaborar em projetos desafiadores, visando soluções eficazes e inovadoras. Meu objetivo é evoluir profissionalmente e participar de iniciativas que realmente façam a diferença.
-🎓 Formado em Sistemas de Informação pelo Cesmac (2019-2024)
-🌱 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
-🤝 Valorizo o trabalho em equipe e ambientes colaborativos
-🌐 Localização: Maceió, Alagoas, Brasil
-🛠️ Minhas Habilidades (Tech Stack)
-JavaScript
-TypeScript
-React
-React Native
-Next.js
-HTML5
-CSS3
-Node.js
-Firebase
-Figma
-💼 Experiência Profissional
-Desenvolvedor Web | Labbit Space Inc.
-Janeiro 2024 - Presente
-Na empresa, desenvolvo e mantenho aplicações web, focando em interfaces dinâmicas com React e Next.js e colaborando no design com Figma. Utilizo JavaScript/TypeScript para criar componentes performáticos e, no backend, trabalho com Node.js e Firebase para autenticação e dados em tempo real. Também exploro integrações Web3, incorporando blockchain em alguns projetos. O uso de Git garante um fluxo organizado e colaborativo, sempre com foco na qualidade e escalabilidade das soluções.
-Desenvolvedor Web | Mulheres Conectadas
-Agosto 2023 - Janeiro 2024
-Desenvolvimento de aplicativos utilizando React Native e Firebase para soluções móveis. Programação de aplicações Web com HTML, CSS, JavaScript/TypeScript. Colaboração no desenvolvimento de soluções que impactam positivamente comunidades e mulheres empreendedoras.
-React Native Developer | Centro Universitário Cesmac (Núcleo de Robótica)
-Maio 2022 - Junho 2023
-Trabalhei com JavaScript, React Native, HTML e CSS, focado em criação de aplicativo, utilizando também o banco de dados Firebase Firestore. Participação ativa no desenvolvimento de soluções tecnológicas inovadoras.
-📊 Estatísticas do GitHub
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeedroMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeedroMoura&layout=compact&langs_count=7&theme=dark"/> </p>
-📫 Entre em Contato
-<p align="left"> <a href="mailto:contato.pedromouraa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://linkedin.com/in/peedromoura" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://peedromoura.github.io/My-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> </p>
-"Sempre busco aproveitar as oportunidades para expandir meus conhecimentos. Tenho facilidade em lidar com pessoas e valorizo o trabalho em equipe, contribuindo para um ambiente colaborativo e produtivo."
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧠 About Me
+
+- 🎓 **Bachelor's in Information Systems** - CESMAC (2019–2024)
+- 🌱 Continuously learning and embracing new technologies
+- 🤝 Advocate for teamwork and collaborative environments
+- 🌍 Based in Maceió, Alagoas, Brazil
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **Web Developer | Labbit Space Inc.**  
+*Jan 2024 – Present*
+
+- Develop and maintain dynamic web applications using React and Next.js.
+- Collaborate on UI/UX design with Figma to create user-friendly interfaces.
+- Implement backend functionalities with Node.js and Firebase for real-time data and authentication.
+- Explore Web3 integrations, incorporating blockchain technologies into projects.
+- Utilize Git for version control, ensuring organized and collaborative workflows.
+
+### **Web Developer | Mulheres Conectadas**  
+*Aug 2023 – Jan 2024*
+
+- Developed mobile applications using React Native and Firebase.
+- Built web applications with HTML, CSS, JavaScript, and TypeScript.
+- Collaborated on solutions aimed at positively impacting communities and supporting women entrepreneurs.
+
+### **React Native Developer | CESMAC Robotics Lab**  
+*May 2022 – Jun 2023*
+
+- Created mobile applications using React Native and Firebase Firestore.
+- Participated in the development of innovative technological solutions within the robotics lab.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeedroMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeedroMoura&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
+## 📫 Get in Touch
+
+<p align="left">
+  <a href="mailto:contato.pedromouraa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/peedromoura" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://peedromoura.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+> "I always seek opportunities to expand my knowledge. I have a knack for working with people and value teamwork, contributing to a collaborative and productive environment."
 
