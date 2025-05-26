@@ -27,39 +27,34 @@ I specialize in building intuitive and high-performance web and mobile applicati
 ## 🛠️ Tech Stack
 
 <!-- Programming Languages -->
+<!-- Programming Languages -->
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts" height="40" />
 </p>
 
 <!-- Frameworks & Libraries -->
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nestjs,react,vue,webpack" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs" height="40" />
 </p>
 
-<!-- Backend & DevOps -->
-### Backend & DevOps
+<!-- Backend & Cloud -->
+### Backend & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nginx,docker,cloudflare" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
 </p>
 
 <!-- Frontend Technologies -->
 ### Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="40" />
 </p>
 
-<!-- Databases -->
-### Databases
+<!-- Development Tools & Design -->
+### Development Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="40" />
-</p>
-
-<!-- Development Tools -->
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,git,vscode" height="40" />
 </p>
 
 ---
