@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **PeedroMoura/PeedroMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -47,4 +47,4 @@ Trabalhei com JavaScript, React Native, HTML e CSS, focado em criação de aplic
 "Sempre busco aproveitar as oportunidades para expandir meus conhecimentos. Tenho facilidade em lidar com pessoas e valorizo o trabalho em equipe, contribuindo para um ambiente colaborativo e produtivo."
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
