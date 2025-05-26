@@ -26,31 +26,41 @@ I specialize in building intuitive and high-performance web and mobile applicati
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<!-- Frontend -->
-<h3>🌐 Frontend</h3>
+<!-- Programming Languages -->
+### Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=php,js,ts" height="40" />
 </p>
 
-<!-- Backend & Tools -->
-<h3>🖥️ Backend & Tools</h3>
+<!-- Frameworks & Libraries -->
+### Frameworks & Libraries
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,react,vue,webpack" height="40" />
 </p>
 
-</div>
+<!-- Backend & DevOps -->
+### Backend & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx,docker,cloudflare" height="40" />
+</p>
+
+<!-- Frontend Technologies -->
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" height="40" />
+</p>
+
+<!-- Databases -->
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="40" />
+</p>
+
+<!-- Development Tools -->
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,figma,vscode" height="40" />
+</p>
 
 ---
 
