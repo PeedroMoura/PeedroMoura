@@ -66,13 +66,6 @@ I specialize in building intuitive and high-performance web and mobile applicati
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
-<br>Tailwind CSS
-</td>
-<td align="center" colspan="2"></td>
-</tr>
-<tr>
 <td align="center" colspan="4"><b>Backend & Tools</b></td>
 </tr>
 <tr>
@@ -134,9 +127,9 @@ I specialize in building intuitive and high-performance web and mobile applicati
 </p>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=peedromoura&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-
+-->
 > "I always seek opportunities to expand my knowledge. I have a knack for working with people and value teamwork, contributing to a collaborative and productive environment."
