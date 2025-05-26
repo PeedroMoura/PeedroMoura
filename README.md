@@ -58,12 +58,19 @@ I specialize in building intuitive and high-performance web and mobile applicati
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeedroMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeedroMoura&layout=compact&langs_count=7&theme=dark"/>
 </p>
+-->
+
+<!--
+Note: My GitHub stats may not reflect my actual experience and contributions, as most of my work is on private repositories.
+-->
+
 
 ---
 
