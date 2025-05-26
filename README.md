@@ -37,7 +37,7 @@ I specialize in building intuitive and high-performance web and mobile applicati
 <!-- Frameworks & Libraries -->
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,vue" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue" height="40" />
 </p>
 
 <!-- Frontend Technologies -->
@@ -47,9 +47,9 @@ I specialize in building intuitive and high-performance web and mobile applicati
 </p>
 
 <!-- Backend & Cloud -->
-### Backend & Cloud
+### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase,express,nestjs" height="40" />
 </p>
 
 <!-- Development Tools & Design -->
