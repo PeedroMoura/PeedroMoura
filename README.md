@@ -90,5 +90,23 @@ Note: My GitHub stats may not reflect my actual experience and contributions, as
 
 ---
 
+<section id="contributions" style="background:#0d1117; padding: 2rem; color: #fff; text-align:center;">
+  <h2 style="font-size: 2rem;">🔥 Recent Coding Streak</h2>
+  <p style="font-style: italic; color: #aaa;">Consistent, passionate, and building daily — one commit at a time.</p>
+  <div style="margin: 1rem auto; max-width: 800px; animation: pulseGraph 3s ease-in-out infinite;">
+    <img src="assets/contribution-graph.png" alt="Contribution graph" style="width: 100%; border-radius: 10px;">
+  </div>
+</section>
+
+<style>
+@keyframes pulseGraph {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.02); opacity: 0.95; }
+  100% { transform: scale(1); opacity: 1; }
+}
+</style>
+
+---
+
 > "I always seek opportunities to expand my knowledge. I have a knack for working with people and value teamwork, contributing to a collaborative and productive environment."
 
